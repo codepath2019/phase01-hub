@@ -4,6 +4,10 @@
 
 <details>
   <summary>Lecture Description</summary>
+  <ul>
+    <li> Directories: Root directory, home directory and how to change directories (command cd) </li>
+    <li> Commands</li>
+  </ul>
     - Directories: Root directory, home directory and how to change directories (command cd)
     - Commands:
       - You will learn that commands are actually files with low level commands for the computer to do a particular thing, like list the contents of a directory (ls)
