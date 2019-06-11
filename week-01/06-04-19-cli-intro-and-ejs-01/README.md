@@ -1,8 +1,7 @@
 ### Topic: Intro to Computer Programs
 
-#### [Lecture Recording](https://vimeo.com/340362692/900e20232f)
-
-- #### [Slides](https://docs.google.com/presentation/d/1LWza5DbgXdBjh73YMldaCnyesUnIwEEVJy4kD8xY34s/edit?usp=sharing)
+- [Lecture Recording](https://vimeo.com/340362692/900e20232f)
+- [Slides](https://docs.google.com/presentation/d/1LWza5DbgXdBjh73YMldaCnyesUnIwEEVJy4kD8xY34s/edit?usp=sharing)
 
 #### Exercises
   1. Do the first 2 problems of [concept check](https://github.com/codepath2019/daytime-lec/blob/master/06-05-2019-lec/lecture-exercises.md).
