@@ -2,18 +2,17 @@
 
 [Video: Computers Follow Instructions Part 02](https://vimeo.com/340142855/4361162baf)
 
-This lecture covers:
 <details>
   <summary>Lecture Description</summary>
-- Directories: Root directory, home directory and how to change directories (command cd)
-- Commands:
-- You will learn that commands are actually files with low level commands for the computer to do a particular thing, like list the contents of a directory (ls)
-  - ls - short for list - lists what's in the directory
-  - echo - returns whatever you typed in quotes
-  - which - tells you which directory a command is in
-  - touch - creates a file
-  - vim - a program that contains a command (called vim) that allows you to edit what is in a file
-  - mv - renames a file
+    - Directories: Root directory, home directory and how to change directories (command cd)
+    - Commands:
+      - You will learn that commands are actually files with low level commands for the computer to do a particular thing, like list the contents of a directory (ls)
+      - ls - short for list - lists what's in the directory
+      - echo - returns whatever you typed in quotes
+      - which - tells you which directory a command is in
+      - touch - creates a file
+      - vim - a program that contains a command (called vim) that allows you to edit what is in a file
+      - mv - renames a file
 </details>
   
 [Video: Computers Follow Instructions Part 03](https://vimeo.com/340703072/64a3467160)
