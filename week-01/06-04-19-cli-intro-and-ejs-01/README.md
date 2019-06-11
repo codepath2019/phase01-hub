@@ -1,4 +1,4 @@
-### Topic: Intro to Computer Programs
+## Lecture: Intro to Computer Programs
 
 - [Lecture Recording](https://vimeo.com/340362692/900e20232f)
 - [Slides](https://docs.google.com/presentation/d/1LWza5DbgXdBjh73YMldaCnyesUnIwEEVJy4kD8xY34s/edit?usp=sharing)
@@ -8,8 +8,9 @@
 
 #### Resources
 1. Read [EloquentJS Chapter 01](https://eloquentjavascript.net/01_values.html) before lecture.
+----------------------------------------------------------------------------------------------
 
-### Topic: JavaScript: Values, Types, Operators
+## Lecture: JavaScript: Values, Types, Operators
 
 - [Lecture Recording](https://vimeo.com/340346729/f447006057)
 - [Slides](https://docs.google.com/presentation/d/17m8X-4XFAkRtSp103-QA35CI-g0u6Zk4XDDJWVZ4-8M/edit)
