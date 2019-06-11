@@ -10,7 +10,6 @@
 1. Read [EloquentJS Chapter 01](https://eloquentjavascript.net/01_values.html) before lecture.
 
 ### Topic: JavaScript: Values, Types, Operators
-#### Lecture Recordings!
 
 - [Lecture Recording](https://vimeo.com/340346729/f447006057)
 - [Slides](https://docs.google.com/presentation/d/17m8X-4XFAkRtSp103-QA35CI-g0u6Zk4XDDJWVZ4-8M/edit)
