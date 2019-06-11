@@ -16,7 +16,7 @@ This lecture covers:
 [Video: Computers Follow Instructions Part 03](https://vimeo.com/340703072/64a3467160)
 <details>
   <summary>Lecture Description</summary>
-  <p>
+  ```shell
     Commands are just files.  
     
     "Running commands" is just "running files".
@@ -33,7 +33,7 @@ This lecture covers:
     
     which reduced the video file size from 2.37GB to 377.1MB
   
-  </p>
+  ```
   
 </details>
 
