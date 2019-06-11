@@ -6,7 +6,16 @@
   <summary>Lecture Description</summary>
   <ul>
     <li> Directories: Root directory, home directory and how to change directories (command cd) </li>
-    <li> Commands</li>
+    <li> Commands:</li>
+      <ul>
+        <li>You will learn that commands are actually files with low level commands for the computer to do a particular thing, like list the contents of a directory (ls)</li>
+        <li>ls - short for list - lists what's in the directory</li>
+        <li>echo - returns whatever you typed in quotes</li>
+        <li>which - tells you which directory a command is in</li>
+        <li>touch - creates a file</li>
+        <li>vim - a program that contains a command (called vim) that allows you to edit what is in a file</li>
+        <li>mv - renames a file</li>
+      </ul>
   </ul>
     - Directories: Root directory, home directory and how to change directories (command cd)
     - Commands:
