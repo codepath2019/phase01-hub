@@ -14,7 +14,10 @@ This lecture covers:
   - mv - renames a file
   
 [Video: Computers Follow Instructions Part 03](https://vimeo.com/340703072/64a3467160)
-
+<details>
+  <summary>Example</summary>
+  <p>
+    
 Commands are just files.  
 
 "Running commands" is just "running files".  
@@ -30,3 +33,9 @@ This video was compressed with the following command:
 `ffmpeg -i input.mov -c:v libx264 -c:a copy -crf 20 output.mov`
 
 which reduced the video file size from 2.37GB to 377.1MB
+  
+  </p>
+  
+</details>
+
+
