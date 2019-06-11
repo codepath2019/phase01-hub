@@ -1,11 +1,9 @@
-### Topic: Computers Follow Instructions
+## Lecture: Computers Follow Instructions
 
-#### Lecture Recordings!
-- [Computers Follow Instructions Part 02](https://vimeo.com/340142855/4361162baf)
-- [Video: Computers Follow Instructions Part 03](https://vimeo.com/340703072/64a3467160)
+- [Lecture Recording Part 01](https://vimeo.com/340362692/900e20232f)
+- [Lecture Recording Part 02](https://vimeo.com/340703072/64a3467160)
 
-#### Lecture Exercises
+#### Exercises
 
-#### Additional Resources Materials
-
+#### Resources
 
