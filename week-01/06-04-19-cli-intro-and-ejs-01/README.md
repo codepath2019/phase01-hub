@@ -8,7 +8,7 @@
 
 #### Resources
 1. Read [EloquentJS Chapter 01](https://eloquentjavascript.net/01_values.html) before lecture.
-----------------------------------------------------------------------------------------------
+---
 
 ## Lecture: JavaScript: Values, Types, Operators
 
