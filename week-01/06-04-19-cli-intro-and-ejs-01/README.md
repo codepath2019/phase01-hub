@@ -2,10 +2,10 @@
 
 #### [Lecture Recording](https://vimeo.com/340362692/900e20232f)
 
-#### [Slides](https://docs.google.com/presentation/d/1LWza5DbgXdBjh73YMldaCnyesUnIwEEVJy4kD8xY34s/edit?usp=sharing)
+- #### [Slides](https://docs.google.com/presentation/d/1LWza5DbgXdBjh73YMldaCnyesUnIwEEVJy4kD8xY34s/edit?usp=sharing)
 
-#### [Exercise 01](https://github.com/codepath2019/daytime-lec/blob/master/06-05-2019-lec/lecture-exercises.md)
-> Note: Do the first 2 concept checks relating to computer programs.
+#### Exercises
+  1. Do the first 2 problems of [concept check](https://github.com/codepath2019/daytime-lec/blob/master/06-05-2019-lec/lecture-exercises.md).
 
 #### Resources
 1. Read [EloquentJS Chapter 01](https://eloquentjavascript.net/01_values.html) as supplement to this lecture.
