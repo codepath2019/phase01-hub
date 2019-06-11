@@ -4,6 +4,7 @@
 - [Lecture Recording Part 02](https://vimeo.com/340703072/64a3467160)
 
 #### Exercises
-
+n/a
 #### Resources
+n/a
 
