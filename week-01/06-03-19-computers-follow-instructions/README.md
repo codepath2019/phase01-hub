@@ -14,6 +14,7 @@ This lecture covers:
   - mv - renames a file
   
 [Video: Computers Follow Instructions Part 03](https://vimeo.com/340703072/64a3467160)
+
 Commands are just files.  
 
 "Running commands" is just "running files".  
