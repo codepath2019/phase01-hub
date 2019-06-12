@@ -1,5 +1,6 @@
 ## Lecture: If, Else, and Operators
 
+- [Student Presentation](https://vimeo.com/user98715206/review/341855762/a31969bfe3)
 - [Lecture Recording](https://vimeo.com/341494502/08ce76c7fd)
 - [Slides](https://docs.google.com/presentation/d/197mKHR3syA8y1PkwYA5vowqRFtkuqupaRlFhQu-SM68/edit#slide=id.p)
 
