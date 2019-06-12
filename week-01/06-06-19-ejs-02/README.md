@@ -1,4 +1,6 @@
-> **note:** Read [EloquentJS Chapter 02](https://eloquentjavascript.net/02_program_structure.html) before lecture.
+```
+**note:** Read [EloquentJS Chapter 02](https://eloquentjavascript.net/02_program_structure.html) before lecture.
+```
 
 ## Lecture: JavaScript: Program Structures Part 01
 
