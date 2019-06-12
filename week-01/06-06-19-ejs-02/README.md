@@ -23,4 +23,4 @@
   2. Do while-loop-exercises.js [here](https://github.com/codepath2019/daytime-lec/tree/master/06-06-2019-lec)
 
 #### Resources
-1. Read [EloquentJS Chapter 02](https://eloquentjavascript.net/01_values.html) before lecture.
+1. Read [EloquentJS Chapter 02](https://eloquentjavascript.net/02_program_structure.html) before lecture.
