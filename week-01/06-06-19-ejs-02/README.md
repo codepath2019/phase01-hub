@@ -19,7 +19,7 @@
 - [Lecture Recording](https://vimeo.com/user98715206/review/341062704/2fc6608526)
 
 #### Exercises
-  1. Do Concept Checks [here](https://github.com/codepath2019/daytime-lec/tree/master/06-06-2019-lec)
+  1. Do lecture-concept-checks.md [here](https://github.com/codepath2019/daytime-lec/tree/master/06-06-2019-lec)
   2. Do while-loop-exercises.js [here](https://github.com/codepath2019/daytime-lec/tree/master/06-06-2019-lec)
 
 #### Resources
