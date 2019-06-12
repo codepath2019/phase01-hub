@@ -6,7 +6,8 @@ Welcome to Phase 01! this is where you will access:
 4. Lecture Resources
 5. Projects
 
-#### [Progress Tracking Sheet]()
+#### [Progress Tracking Sheet](https://docs.google.com/spreadsheets/d/1X0_K3KLWu4uJvyQgNQcoaAbOP2ld1pTCF8nYaRZkwmc/edit?usp=sharing)
+> **note:** When you are done with a particular done, you can mark it done with your icon customized icon!
 
 
 ### Weekly Lessons 
