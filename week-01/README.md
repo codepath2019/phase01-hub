@@ -1,4 +1,4 @@
-## Week 1, Command Line and Basic JavaScript (06-01-19 ~ 06-09-19)
+## Week 1, Command Line and Basic JavaScript (06-02-19 ~ 06-07-19)
 
 #### [Command Line Intro | 06-02-19](./06-02-19-cli-intro)
 #### [Computers Follow Instructions | 06-03-19](./06-03-19-computers-follow-instructions)
