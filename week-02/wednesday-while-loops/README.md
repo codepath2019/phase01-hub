@@ -2,8 +2,7 @@
 
 - [Student Presentation]
   - Not available yet
-- [Lecture Recording]
-  - Not available yet
+- [Lecture Recording](https://vimeo.com/user98715206/review/342128377/7efdeed5b4)
 - [Slides](https://drive.google.com/open?id=1_9yT83IEaNTReQD6xODO5vxBy0n4OCvO)
 
 #### Exercises
