@@ -10,3 +10,12 @@
 
 #### Resources
 n/a
+
+---
+
+## DayTime Lectures
+- [Chrome Dev Tools](https://vimeo.com/user98715206/review/341970094/12e2d08d56)
+> **note:** Short lecture on Chrome Dev Tools designed to supplement your learning experience with your html project!
+
+- [Objects and Arrays](https://vimeo.com/341911477/cfdadd766d)
+> **note:** Short lecture on Objects and Arrays to assist you in doing the [function exercises](https://gist.github.com/raym/ceaad96d3afa33d25cd418c8d057115d) assigned by Milarepa from Tuesday of this week.
