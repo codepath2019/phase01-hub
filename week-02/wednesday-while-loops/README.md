@@ -1,6 +1,9 @@
 ## Lecture: Functions
 
-- [Lecture Recording](https://vimeo.com/341840527/67997ff765)
+- [Student Presentation]
+  - Not available yet
+- [Lecture Recording]
+  - Not available yet
 - [Slides](https://drive.google.com/open?id=1_9yT83IEaNTReQD6xODO5vxBy0n4OCvO)
 
 #### Exercises
