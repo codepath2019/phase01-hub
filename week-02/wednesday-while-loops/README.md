@@ -1,8 +1,7 @@
 ## Lecture: Functions
 
-- [Student Presentation]
-  - Not available yet
-- [Lecture Recording](https://vimeo.com/user98715206/review/342128377/7efdeed5b4)
+- [Student Presentation](https://vimeo.com/user98715206/review/342128377/7efdeed5b4)
+- [Lecture recording](https://vimeo.com/341962723/f60a9e0fd7)
 - [Slides](https://drive.google.com/file/d/1_9J66plXqilUM4uzpiipd5OBO-ve6jOz)
 #### Exercises
 - Read and Complete [this](https://www.jshero.net/en/koans/while.html)
