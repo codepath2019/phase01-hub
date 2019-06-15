@@ -1,4 +1,4 @@
-## Lecture: Functions
+## Lecture: While Loops
 
 - [Student Presentation](https://vimeo.com/user98715206/review/342128377/7efdeed5b4)
 - [Lecture recording](https://vimeo.com/341962723/f60a9e0fd7)
