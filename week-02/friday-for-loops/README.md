@@ -1,4 +1,4 @@
-## Lecture: Foor Loops
+## Lecture: For Loops
 
 - [Student Presentation]
   - not available yet
