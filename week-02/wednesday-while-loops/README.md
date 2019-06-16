@@ -6,6 +6,7 @@
 #### Exercises
 - Read and Complete [this](https://www.jshero.net/en/koans/while.html)
 - Write a function that finds the first missing number given an array of sequential integers. Given the input `[1,2,3,4,6,7]`, your function should return `5`. Solve your problem with a while loop!
+- [Exercises](https://gist.github.com/raym/8ab92c8dcc2dabde91bd34834c920d9b) with while loops
 
 #### Resources
 n/a
