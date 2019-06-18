@@ -1,6 +1,7 @@
 ## Lecture: JavaScript Review
 
-- [Lecture](https://vimeo.com/341840527/67997ff765)
+- [Lecture Recording](https://vimeo.com/user98715206/review/343052234/17125000a1)
+- [Discussion Recording](https://vimeo.com/user98715206/review/343055783/862670fa82)
 
 #### Exercises
 n/a
